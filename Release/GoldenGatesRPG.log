@@ -1,0 +1,27 @@
+﻿  Direction.cpp
+  Benign.cpp
+c:\users\cam29\downloads\goldengatesrpg (1)\enemy\benign.cpp(23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Orc.cpp
+  Thief.cpp
+  Vicious.cpp
+  WildAnimal.cpp
+  Witch.cpp
+  Zombie.cpp
+c:\users\cam29\downloads\goldengatesrpg (1)\enemy\zombie.cpp(16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  enemy.cpp
+  Hero.cpp
+  Hunter.cpp
+  Mage.cpp
+  Saiyan.cpp
+  Panipuri.cpp
+  Scarlet_swagger.cpp
+  Map.cpp
+c:\users\cam29\downloads\goldengatesrpg (1)\map\map.cpp(107): warning C4018: '<': signed/unsigned mismatch
+c:\users\cam29\downloads\goldengatesrpg (1)\map\map.cpp(113): warning C4018: '<': signed/unsigned mismatch
+  main.cpp
+  Generating code
+  0 of 425 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  GoldenGatesRPG.vcxproj -> C:\Users\cam29\Downloads\GoldenGatesRPG (1)\Release\GoldenGatesRPG.exe

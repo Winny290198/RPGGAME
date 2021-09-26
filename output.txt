@@ -1,0 +1,12 @@
+rows: 5 columns: 5
+
+N	I 	N	N	N	
+N	N	N	N	I 	
+H 	I 	N	N	N	
+N	N	N	N	N	
+N	N	N	N	N	
+
+Health: 37	AttackPoint: 50	Enemies killed: 2	Enemies left: 0
+
+
+Congratulation! You've kill all enemies!

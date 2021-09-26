@@ -1,0 +1,3 @@
+﻿  main.cpp
+c:\users\user\desktop\nhuscode\goldengatesrpg (1)\main.cpp(283): warning C4804: '<': unsafe use of type 'bool' in operation
+  GoldenGatesRPG.vcxproj -> C:\Users\User\Desktop\nhusCode\GoldenGatesRPG (1)\x64\Debug\GoldenGatesRPG.exe

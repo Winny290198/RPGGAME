@@ -1,0 +1,32 @@
+﻿  DEMO.cpp
+  Direction.cpp
+c:\users\user\desktop\nhuscode\goldengatesrpg (1)\direction.cpp(115): warning C4101: 'exception': unreferenced local variable
+  Benign.cpp
+c:\users\user\desktop\nhuscode\goldengatesrpg (1)\enemy\benign.cpp(35): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  enemy.cpp
+  Orc.cpp
+  Thief.cpp
+  Vicious.cpp
+  WildAnimal.cpp
+  Witch.cpp
+  Zombie.cpp
+c:\users\user\desktop\nhuscode\goldengatesrpg (1)\enemy\zombie.cpp(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Hero.cpp
+c:\users\user\desktop\nhuscode\goldengatesrpg (1)\hero\hero.cpp(36): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Hunter.cpp
+  Mage.cpp
+  Saiyan.cpp
+  Consumable.cpp
+  Item.cpp
+  Panipuri.cpp
+  Scarlet_swagger.cpp
+  Weapon.cpp
+  main.cpp
+c:\users\user\desktop\nhuscode\goldengatesrpg (1)\main.cpp(301): warning C4804: '<': unsafe use of type 'bool' in operation
+  Compiling...
+  Map.cpp
+  Generating code
+c:\users\user\desktop\nhuscode\goldengatesrpg (1)\map\map.cpp(216): warning C4715: 'Map::getHero': not all control paths return a value
+  All 493 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  GoldenGatesRPG.vcxproj -> C:\Users\User\Desktop\nhusCode\GoldenGatesRPG (1)\x64\Release\GoldenGatesRPG.exe
